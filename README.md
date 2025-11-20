@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # D-Project — Canonical Public Repository
 **Version 1.0 • Open • Transparent • Verifiable**
 
