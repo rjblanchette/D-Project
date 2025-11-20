@@ -106,7 +106,6 @@ docs/              → Diagrams, infographics, public-ready artefacts
 ```
 
 Only **stable, reusable, or reproducible** content is stored here.
-Exploratory notes remain in OneNote.
 
 ---
 
@@ -142,7 +141,7 @@ Examples:
 * `[08-Modeling] Add surplus calculator script and test dataset`
 * `[09-Outreach] Draft IMF outreach letter (EN)`
 
-This ensures commits are traceable to specific project areas and OneNote tabs.
+This ensures commits are traceable to specific project areas.
 
 ---
 
