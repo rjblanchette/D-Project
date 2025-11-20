@@ -3,11 +3,11 @@
 
 This repository contains the official, authoritative, and version-controlled architecture of the **D-Project**, a public governance framework for fair AI surplus distribution.
 
-## 🔍 Source of Truth
+## Source of Truth
 All canonical materials live in the `/docs` folder.
 Do not trust interpretations outside this repository.
 
-## 📦 Contents
+## Contents
 - Full Architecture (DProject_v1.0.md)
 - Governance Spine
 - Boundary Architecture
@@ -18,7 +18,7 @@ Do not trust interpretations outside this repository.
 - Implementation Roadmap
 - Version history
 
-## 🧮 Math Spine
+## Math Spine
 Validated formulas for surplus measurement, intangible correction, and coherence ratios.
 
 ## 🛡 Anti-Capture by Design
@@ -29,10 +29,10 @@ The D-Project is intentionally structured to prevent:
 - technocratic capture
 - bureaucratic capture
 
-## 📜 License
+## License
 All files released under **CC BY 4.0** unless otherwise noted.
 
-## ✉️ Contact
+## Contact
 For questions or contributions, refer to the Issue Tracker or open a Pull Request.
 
 **This repository represents the official public definition of the D-Project.**
