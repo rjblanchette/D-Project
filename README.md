@@ -225,8 +225,4 @@ A citizen-led research initiative for shared AI prosperity.
 For inquiries or collaboration:
 (dprojet@blanchette.ch, dproject.ch)
 
----
 
-# **End of README**
-
->>>>>>> f85edb8a2cd7d832f94654d89ce26df778956daf
