@@ -21,7 +21,7 @@ Do not trust interpretations outside this repository.
 ## Math Spine
 Validated formulas for surplus measurement, intangible correction, and coherence ratios.
 
-## 🛡 Anti-Capture by Design
+## Anti-Capture by Design
 The D-Project is intentionally structured to prevent:
 - corporate capture
 - political capture
@@ -212,7 +212,7 @@ These ensure replicable outputs and consistent tone.
 
 ## **License**
 
-Specify your license choice (e.g., MIT, CC-BY, or custom civic license).
+CC-BY v4.0
 
 ---
 
@@ -223,7 +223,7 @@ Founder: *RJ Blanchette*
 A citizen-led research initiative for shared AI prosperity.
 
 For inquiries or collaboration:
-(Add preferred email, website, or professional link)
+(dprojet@blanchette.ch, dproject.ch)
 
 ---
 
