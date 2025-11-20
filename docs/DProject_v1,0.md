@@ -1,15 +1,3 @@
-Below is the complete, clean, ready-to-publish **`DProject_v1.0.md`** file.
-
-It is formatted for GitHub:
-
-* proper headers
-* clean spacing
-* no trailing fluff
-* canonical v1.0 content
-* matches the architecture we finalized
-
-You can paste this directly into:
-
 ```
 /docs/DProject_v1.0.md
 ```
@@ -329,7 +317,3 @@ To verify authenticity:
 The repository is the **only authoritative source**.
 
 ---
-
-# **END OF D-PROJECT ARCHITECTURE v1.0**
-
-**This file represents the complete public definition of the D-Project.**
