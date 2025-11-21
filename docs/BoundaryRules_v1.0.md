@@ -1,3 +1,8 @@
+© 2025 RJ Blanchette. All rights reserved.
+D-Project Framework v1.3. 
+Licensed under CC-BY-NC for documentation and MIT for code.
+See LICENSE.md for conditions.
+
 # Boundary Architecture — D-Project v1.0
 
 This defines who participates in the D-Project and who does not.
