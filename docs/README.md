@@ -1,4 +1,4 @@
-# 📄 README — /docs Directory
+# README — /docs Directory
 ### Canonical Documentation Layer — D-Project v1.0
 
 This folder contains the **official, authoritative, and version-controlled documents** defining the D-Project governance architecture.
@@ -8,7 +8,7 @@ Everything outside it is **non-authoritative** unless explicitly versioned and r
 
 ---
 
-## 📘 Purpose of This Directory
+## Purpose of This Directory
 
 The `/docs` folder serves as the **single source of truth** for:
 
@@ -28,7 +28,7 @@ If a file is not present here (or referenced by tag),
 
 ---
 
-## 📁 Directory Contents
+## Directory Contents
 
 Each file in this folder is standalone and collectively complete.
 
@@ -49,7 +49,7 @@ Each file in this folder is standalone and collectively complete.
 
 ---
 
-## 🔍 Verification Instructions
+## Verification Instructions
 
 To verify any public claim about the D-Project:
 
@@ -62,7 +62,7 @@ If an external description does not match these files, it is **not canonical**.
 
 ---
 
-## 🧭 Versioning Policy
+## Versioning Policy
 
 - All updates must be recorded in **CHANGELOG.md**
 - New versions must be tagged (e.g., `v1.1`, `v1.2`)
@@ -71,7 +71,7 @@ If an external description does not match these files, it is **not canonical**.
 
 ---
 
-## 🛡 Integrity Rules
+## Integrity Rules
 
 - No document in this directory may be modified without:
   - proper versioning
@@ -85,7 +85,7 @@ If an external description does not match these files, it is **not canonical**.
 
 ---
 
-## 📬 Contact & Contribution Guidelines
+## Contact & Contribution Guidelines
 
 To propose improvements or submit corrections:
 
@@ -94,5 +94,3 @@ To propose improvements or submit corrections:
 - Reference the appropriate section code
 - Follow commit message conventions:
   - `[SectionCode] Action: Description`
-
-A

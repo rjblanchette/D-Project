@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 # D-Project — Canonical Public Repository
 **Version 1.0 • Open • Transparent • Verifiable**
 
 This repository contains the official, authoritative, and version-controlled architecture of the **D-Project**, a public governance framework for fair AI surplus distribution.
 
-## 🔍 Source of Truth
+## Source of Truth
 All canonical materials live in the `/docs` folder.
 Do not trust interpretations outside this repository.
 
-## 📦 Contents
+## Contents
 - Full Architecture (DProject_v1.0.md)
 - Governance Spine
 - Boundary Architecture
@@ -19,10 +18,10 @@ Do not trust interpretations outside this repository.
 - Implementation Roadmap
 - Version history
 
-## 🧮 Math Spine
+## Math Spine
 Validated formulas for surplus measurement, intangible correction, and coherence ratios.
 
-## 🛡 Anti-Capture by Design
+## Anti-Capture by Design
 The D-Project is intentionally structured to prevent:
 - corporate capture
 - political capture
@@ -30,10 +29,10 @@ The D-Project is intentionally structured to prevent:
 - technocratic capture
 - bureaucratic capture
 
-## 📜 License
+## License
 All files released under **CC BY 4.0** unless otherwise noted.
 
-## ✉️ Contact
+## Contact
 For questions or contributions, refer to the Issue Tracker or open a Pull Request.
 
 **This repository represents the official public definition of the D-Project.**
@@ -107,7 +106,6 @@ docs/              → Diagrams, infographics, public-ready artefacts
 ```
 
 Only **stable, reusable, or reproducible** content is stored here.
-Exploratory notes remain in OneNote.
 
 ---
 
@@ -143,7 +141,7 @@ Examples:
 * `[08-Modeling] Add surplus calculator script and test dataset`
 * `[09-Outreach] Draft IMF outreach letter (EN)`
 
-This ensures commits are traceable to specific project areas and OneNote tabs.
+This ensures commits are traceable to specific project areas.
 
 ---
 
@@ -213,7 +211,7 @@ These ensure replicable outputs and consistent tone.
 
 ## **License**
 
-Specify your license choice (e.g., MIT, CC-BY, or custom civic license).
+CC-BY v4.0
 
 ---
 
@@ -224,10 +222,6 @@ Founder: *RJ Blanchette*
 A citizen-led research initiative for shared AI prosperity.
 
 For inquiries or collaboration:
-(Add preferred email, website, or professional link)
+(dprojet@blanchette.ch, dproject.ch)
 
----
 
-# **End of README**
-
->>>>>>> f85edb8a2cd7d832f94654d89ce26df778956daf
