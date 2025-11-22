@@ -1,0 +1,1 @@
+Manifeste v1.1 (FR)
