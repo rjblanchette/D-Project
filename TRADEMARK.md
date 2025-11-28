@@ -1,1 +1,0 @@
-Protected Marks: D-Project, Coherence Dividend, Verium.
